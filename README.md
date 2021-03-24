@@ -47,3 +47,15 @@ Steps:
 * Grouped by salary and obtained the mean values for salaries: Results are such that Assistant Engineers make a little bit more money than Engineers and Senior Engineers. Also, Staff personnel make more money than Engineers and Managers.
 * Bar plot created
 * Looked for my ID= 499942 and name is "April Foolsday".
+
+## Files to read
+* SQLScript2
+* Schema
+* histograms - Copy
+* EDR
+
+## Other files
+* Q1, Q2, ... Q8.csv are query results
+* EDR.png
+* salary_histogram.png
+* avg_salary_title.png
